@@ -1,10 +1,10 @@
 # 🖥️ PC Hardware Store - E-commerce Vanilla
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/12345678-1234-1234-1234-123456789012/deploy-status)](https://app.netlify.com/sites/ecommerce-pc-hard/deploys)
-
 ## 🌐 **Demo en Vivo**
 
 ### 🚀 **[Ver Tienda Online →](https://ecommerce-pc-hard.netlify.app/)**
+
+_Desplegado en Netlify_
 
 ---
 
