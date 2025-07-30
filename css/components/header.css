@@ -148,7 +148,7 @@
     .nav ul {
         gap: var(--spacing-sm);
     }
-    
+
     .nav-link {
         font-size: 0.85rem;
         padding: var(--spacing-xs) var(--spacing-sm);
