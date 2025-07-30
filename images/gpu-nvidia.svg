@@ -1,0 +1,8 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#000"/>
+  <rect x="50" y="50" width="300" height="200" rx="15" fill="#333"/>
+  <rect x="70" y="70" width="260" height="160" rx="10" fill="#111"/>
+  <rect x="90" y="90" width="220" height="20" fill="#76b900"/>
+  <text x="200" y="180" text-anchor="middle" fill="#76b900" font-family="Arial" font-size="18" font-weight="bold">NVIDIA</text>
+  <text x="200" y="200" text-anchor="middle" fill="#white" font-family="Arial" font-size="14">GeForce RTX</text>
+</svg>
